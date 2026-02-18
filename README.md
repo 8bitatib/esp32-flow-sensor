@@ -4,7 +4,11 @@ An ESP32‑based leak detection demo built with MicroPython. The project monitor
 
 Features:
 • Runs on ESP32 with MicroPython firmware
+
 • Real‑time pulse counting and threshold logic
+
 • Distinguishes between tap usage and leak conditions
-• Auto‑runs on reset when saved as 
+
+• Auto‑runs on reset when saved as main.py
+
 • Outputs readable status messages for exam/demo presentations
